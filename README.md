@@ -9,7 +9,7 @@
 
 <h5 align="left"> If our project helps you, please give us a star ⭐ on GitHub to support us. 🙏🙏 </h2>
 
-<img alt="PyTorch" height="25" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="License" height="25" src="https://img.shields.io/badge/License-Apache-yellow" /> <a src="https://img.shields.io/badge/cs.CV-2405.03959-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2505.16784" height="25">  <img height="25" src="https://img.shields.io/badge/cs.CV-2505.16784-b31b1b?logo=arxiv&logoColor=red"> 
+<img alt="Python" height="25" src="https://img.shields.io/badge/-Python-3776AB" /> <img alt="License" height="25" src="https://img.shields.io/badge/License-Apache-yellow" /> <a src="https://img.shields.io/badge/cs.CV-2405.03959-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2505.16784" height="25">  <img height="25" src="https://img.shields.io/badge/cs.CV-2505.16784-b31b1b?logo=arxiv&logoColor=red"> 
 </a> 
 
 ### 💬 This repo is the official implementation of:
