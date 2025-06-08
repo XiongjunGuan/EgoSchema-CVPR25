@@ -21,7 +21,7 @@ Jun Xie*, [Xiongjun Guan](https://xiongjunguan.github.io/)*, Yingjian Zhu, Zhaor
 
 ## :art: Introduction
 
-In this paper, we present the <strong style="color:red;">runner-up</strong> solution for the [Ego4D EgoSchema Challenge](https://github.com/egoschema/EgoSchema) at CVPR 2025 (Confirmed on May 20, 2025).
+In this paper, we present the <strong><font color="red">runner-up</font></strong> solution for the [Ego4D EgoSchema Challenge](https://github.com/egoschema/EgoSchema) at CVPR 2025 (Confirmed on May 20, 2025).
 
 Inspired by the success of large models, we evaluate and leverage `leading accessible multimodal large models` and adapt them to video understanding tasks via `few-shot learning` and `model ensemble` strategies. 
 
@@ -74,6 +74,9 @@ The code will be gradually released after it has been properly organized.
 :point_up: Finally, the diverse results from experts with different ways of thinking are integrated to reach a final judgment.
 ```bash
 ```
+
+
+<br>
 
 ## :bookmark_tabs: Citation
 
