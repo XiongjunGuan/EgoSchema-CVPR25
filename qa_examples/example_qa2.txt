@@ -1,0 +1,17 @@
+```json
+{
+"CAPTION":
+{
+"0:00-0:04": "#C C washes the tray.",
+...,
+"2:08-2:12": "#O A man rinses the plate.",
+...,
+"2:56-3:00": "#C C washes the board."
+},
+"SUMMARY": "C begins by scrubbing and washing a tray using a sponge and a scouring pad. C then proceeds to wash a tin, various plates, and a grater, consistently using the tap for rinsing and scrubbing the utensils ..."
+"REASON": "Based on the consistent actions of washing and scrubbing various kitchen items, C's primary objective appears to be cleaning dishes and other kitchen utensils. There are no indications of cooking, doing laundry, or bathroom cleaning activities in the given captions.",
+"ANSWER": 4,
+"CONFIDENCE": 5
+}
+```
+

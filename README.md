@@ -58,21 +58,41 @@ The code will be gradually released after it has been properly organized.
 
 :point_up:  First, you need to organize the file structure as follows:
 ```
+|-video_dir # videos
+    |- 1.mp4 
+    |- 2.mp4 ...
+
+|-questions
+    |-questions.json # question and options
 
 ```
 
 :point_up: Next, adjust the prompt words and examples according to your needs and check the output requirements.
 
-- 1-stage:
+You need to modify the file path `--videos_dir`, `--questions_file`, and fill in the corresponding API key `api_keys` (we have alternately used multiple sets of keys to overcome the limitation of usage rate).
+
+- Execute 1-stage pipeline:
 ```bash
+python inference-1stage.py
 ```
 
-- 2-stage:
+- Execute 2-stage pipeline:
 ```bash
+python inference-2stage-1.py
+python inference-2stage-2.py
+```
+
+:point_up: Then, organize the thinking results into the form of competition requirements.
+Please note that the original thinking results `result_dir` and target path `output_path` need to be modified to adapt.
+```bash
+python get_answers.py
 ```
 
 :point_up: Finally, the diverse results from experts with different ways of thinking are integrated to reach a final judgment.
+
+You need to fill in the path of diversified thinking results in `expert_path_lst` obtained in the above phase, as well as the corresponding accuracy rate `expert_acc`.
 ```bash
+python model_ensemble.py
 ```
 
 
