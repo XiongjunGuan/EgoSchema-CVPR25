@@ -15,7 +15,7 @@
 ### 💬 This repo is the official implementation of:
 - ***EgoSchema @ CVPR 2025***: [Four Eyes Are Better Than Two: Harnessing the Collaborative Potential of Large Models via Differentiated Thinking and Complementary Ensembles](https://arxiv.org/abs/2505.16784) 
 
-Jun Xie*, [Xiongjun Guan](https://xiongjunguan.github.io/)*, Yingjian Zhu, Zhaoran Zhao, Xinming Wang, Hongzhu Yi,  Feng Chen,  Zhepeng Wang
+Jun Xie*, [Xiongjun Guan](https://xiongjunguan.github.io/)*  (student first author), Yingjian Zhu, Zhaoran Zhao, Xinming Wang, Hongzhu Yi,  Feng Chen,  Zhepeng Wang
 
 ---
 
